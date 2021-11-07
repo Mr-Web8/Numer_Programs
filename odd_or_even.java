@@ -1,4 +1,4 @@
-import java.util.*;//using Scanner class from util package
+import java.util.Scanner;//using Scanner class from util package
 public class Odd_Even {//change The class name according to the file name
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);//creating an object of Scanner class
